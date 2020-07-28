@@ -16,11 +16,11 @@ main{
 .list{
 	margin-bottom: 50px;
 }
-li:nth-child(odd){
+.content:nth-child(odd){
 	background-color: gray;
 	padding:20px;
 }
-li:nth-child(even){
+.content:nth-child(even){
 	background-color: #fff;
 	padding:20px;
 }
